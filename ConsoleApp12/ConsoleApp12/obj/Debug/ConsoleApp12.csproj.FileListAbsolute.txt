@@ -1,0 +1,10 @@
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\Newtonsoft.Json.dll
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\Newtonsoft.Json.xml
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CopyComplete
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\АбдрахмановА\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
